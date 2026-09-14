@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Henrique Amorim!
+#  Olá, eu sou Henrique Amorim!
 
 ###  Data |  Technology |  Development
 
@@ -62,7 +62,7 @@ Dashboards e projetos de análise e visualização de dados desenvolvidos utiliz
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Busco oportunidades nas áreas de:
 
@@ -72,8 +72,8 @@ Meu objetivo é continuar desenvolvendo minhas habilidades, criando projetos pr�
 
 ---
 
-## 📫 Contato
+##  Contato
 
-💼 [LinkedIn](https://www.linkedin.com/in/amorimmmx/)
+ [LinkedIn](https://www.linkedin.com/in/amorimmmx/)
 
-🐙 [GitHub](https://github.com/Amorimmmx)
+ [GitHub](https://github.com/Amorimmmx)
