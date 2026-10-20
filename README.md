@@ -85,24 +85,6 @@ Estudos e aplicações práticas com Python, incluindo fundamentos de programaç
 
 ---
 
-
-##  Meu GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amorimmmx&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorimmmx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens dos repositórios" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amorimmmx&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amorimmmx&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade do GitHub" />
-</p>
-
----
-
 ##  Objetivo profissional
 
 Busco oportunidades de estágio e posições de entrada em **Análise de Dados, Business Intelligence e áreas relacionadas à tecnologia**.
