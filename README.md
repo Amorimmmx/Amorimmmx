@@ -34,7 +34,7 @@ Minha experiência profissional anterior em logística me aproximou de rotinas o
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -57,23 +57,23 @@ Minha experiência profissional anterior em logística me aproximou de rotinas o
 
 ---
 
-## 📂 Projetos em destaque
+##  Projetos em destaque
 
 Aqui compartilho projetos e exercícios que desenvolvo para colocar meus conhecimentos em prática e evoluir na área de Dados.
 
-### 📊 Power BI — Dashboards
+###  Power BI — Dashboards
 
 Projetos de visualização de dados, criação de indicadores e desenvolvimento de dashboards para facilitar a interpretação das informações.
 
 **O que busco praticar:** tratamento de dados, organização visual, indicadores e análise de resultados.
 
-### 🗄️ SQL e MySQL — Consultas e bancos de dados
+###  SQL e MySQL — Consultas e bancos de dados
 
 Exercícios e projetos para praticar consultas, filtros, ordenações, agrupamentos e relacionamentos entre tabelas.
 
 **O que busco praticar:** lógica SQL, consultas relacionais e análise de dados armazenados em bancos de dados.
 
-### 🐍 Python — Programação e análise de dados
+###  Python — Programação e análise de dados
 
 Estudos e aplicações práticas com Python, incluindo fundamentos de programação e primeiros passos no tratamento e na análise de dados com Pandas.
 
@@ -87,7 +87,7 @@ Estudos e aplicações práticas com Python, incluindo fundamentos de programaç
 
 ---
 
-## 📚 Aprendizado contínuo
+##  Aprendizado contínuo
 
 - [x] Fundamentos de Power BI — curso realizado no SENAI
 - [x] Fundamentos de IA para Análise de Dados — curso realizado no SENAI
@@ -99,7 +99,7 @@ Estudos e aplicações práticas com Python, incluindo fundamentos de programaç
 
 ---
 
-## 📈 Meu GitHub
+##  Meu GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amorimmmx&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
@@ -116,7 +116,7 @@ Estudos e aplicações práticas com Python, incluindo fundamentos de programaç
 
 ---
 
-## 🎯 Objetivo profissional
+##  Objetivo profissional
 
 Busco oportunidades de estágio e posições de entrada em **Análise de Dados, Business Intelligence e áreas relacionadas à tecnologia**.
 
@@ -124,7 +124,7 @@ Quero continuar aprendendo, desenvolver projetos relevantes e contribuir com sol
 
 ---
 
-## 🤝 Vamos nos conectar?
+##  Vamos nos conectar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amorimmmx/">
@@ -136,5 +136,5 @@ Quero continuar aprendendo, desenvolver projetos relevantes e contribuir com sol
 </p>
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil!
+   Obrigado por visitar meu perfil!
 </p>
