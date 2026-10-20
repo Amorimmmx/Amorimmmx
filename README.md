@@ -24,15 +24,11 @@ Por que Dados?
 
 Minha experiência profissional anterior em logística me aproximou de rotinas operacionais, organização de informações e acompanhamento de processos. Hoje, quero unir essa visão prática de negócio à tecnologia para transformar dados em informações úteis e apoiar melhores decisões.
 
-📊 Tenho interesse em análise de dados, indicadores e dashboards.
-
-🗄️ Estou desenvolvendo meus conhecimentos em SQL e MySQL.
-
-🐍 Estudo Python para lógica de programação, tratamento e análise de dados.
-
-📈 Pratico a criação de dashboards e visualizações com Power BI.
-
-🎯 Meu objetivo é conquistar uma oportunidade de estágio ou início de carreira na área de Dados e BI.
+- **Análise de Dados:** interesse em indicadores, dashboards e interpretação de informações.
+- **SQL & MySQL:** desenvolvendo conhecimentos em consultas e bancos de dados relacionais.
+- **Python:** estudando lógica de programação, tratamento e análise de dados.
+- **Power BI:** praticando a criação de dashboards e visualizações de dados.
+- **Objetivo profissional:** conquistar uma oportunidade de estágio ou início de carreira em Dados e Business Intelligence.
 
 ---
 
@@ -89,17 +85,6 @@ Estudos e aplicações práticas com Python, incluindo fundamentos de programaç
 
 ---
 
-##  Aprendizado contínuo
-
-- [x] Fundamentos de Power BI — curso realizado no SENAI
-- [x] Fundamentos de IA para Análise de Dados — curso realizado no SENAI
-- [ ] Aprofundar SQL e consultas com JOIN
-- [ ] Evoluir em Excel e suas funções
-- [ ] Praticar Python e Pandas
-- [ ] Desenvolver novos projetos de análise de dados
-- [ ] Aprender Git e GitHub na prática
-
----
 
 ##  Meu GitHub
 
