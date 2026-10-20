@@ -32,7 +32,7 @@ Minha experiência profissional anterior em logística me aproximou de rotinas o
 
 ---
 
-##  Tecnologias e ferramentas
+##  Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
