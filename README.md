@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória na área de tecnologia com foco em **Análise de Dados e Business Intelligence**.
 
