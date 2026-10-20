@@ -1,79 +1,140 @@
-#  Olá, eu sou Henrique Amorim!
 
-###  Data |  Technology |  Development
+<!-- BANNER ANIMADO -->
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Dados, Business Intelligence e Tecnologia**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Henrique+Amorim!;Estudante+de+An%C3%A1lise+e+Desenvolvimento;Construindo+minha+trajet%C3%B3ria+em+Dados+e+BI" alt="Animação de apresentação" />
+</p>
 
-Tenho interesse em análise de dados, desenvolvimento de soluções e criação de projetos que unam tecnologia e informação para gerar resultados.
-
----
-
-##  Sobre mim
-
--  Análise e Desenvolvimento de Sistemas
--  Análise de Dados e Business Intelligence
--  Power BI e visualização de dados
--  SQL e MySQL
--  Python
--  HTML, CSS e JavaScript
--  Git e GitHub
+<p align="center">
+  <a href="https://github.com/Amorimmmx">
+    <img src="https://img.shields.io/badge/GitHub-Amorimmmx-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/amorimmmx/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-##  Tecnologias e ferramentas
+## 👋 Sobre mim
 
-**Dados & BI**
-- Power BI
-- Excel
-- SQL
-- MySQL
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória na área de tecnologia com foco em **Análise de Dados e Business Intelligence**.
 
-**Desenvolvimento**
-- Python
-- HTML
-- CSS
-- JavaScript
+Minha experiência profissional anterior em logística me aproximou de rotinas operacionais, organização de informações e acompanhamento de processos. Hoje, quero unir essa visão prática de negócio à tecnologia para transformar dados em informações úteis e apoiar melhores decisões.
 
-**Ferramentas**
-- Git
-- GitHub
-- MySQL Workbench
-- VS Code
+📊 Tenho interesse em análise de dados, indicadores e dashboards.
+
+🗄️ Estou desenvolvendo meus conhecimentos em SQL e MySQL.
+
+🐍 Estudo Python para lógica de programação, tratamento e análise de dados.
+
+📈 Pratico a criação de dashboards e visualizações com Power BI.
+
+🎯 Meu objetivo é conquistar uma oportunidade de estágio ou início de carreira na área de Dados e BI.
 
 ---
 
-##  Projetos
+## 🧰 Tecnologias e ferramentas
 
-Aqui você encontrará projetos desenvolvidos para colocar em prática meus conhecimentos em **Dados, BI e Desenvolvimento**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-###  Power BI
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-Dashboards e projetos de análise e visualização de dados desenvolvidos utilizando Power BI.
-
----
-
-##  Atualmente estudando
-
-- 📊 Power BI
-- 🐍 Python
-- 🗄️ SQL
-- 📈 Análise de Dados
-- 💻 Desenvolvimento de Software
-
----
-
-##  Objetivo
-
-Busco oportunidades nas áreas de:
-
-**Análise de Dados | Business Intelligence | Tecnologia | Desenvolvimento**
-
-Meu objetivo é continuar desenvolvendo minhas habilidades, criando projetos práticos e evoluindo profissionalmente na área de tecnologia.
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query" />
+</p>
 
 ---
 
-##  Contato
+## 📂 Projetos em destaque
 
- [LinkedIn](https://www.linkedin.com/in/amorimmmx/)
+Aqui compartilho projetos e exercícios que desenvolvo para colocar meus conhecimentos em prática e evoluir na área de Dados.
 
- [GitHub](https://github.com/Amorimmmx)
+### 📊 Power BI — Dashboards
+
+Projetos de visualização de dados, criação de indicadores e desenvolvimento de dashboards para facilitar a interpretação das informações.
+
+**O que busco praticar:** tratamento de dados, organização visual, indicadores e análise de resultados.
+
+### 🗄️ SQL e MySQL — Consultas e bancos de dados
+
+Exercícios e projetos para praticar consultas, filtros, ordenações, agrupamentos e relacionamentos entre tabelas.
+
+**O que busco praticar:** lógica SQL, consultas relacionais e análise de dados armazenados em bancos de dados.
+
+### 🐍 Python — Programação e análise de dados
+
+Estudos e aplicações práticas com Python, incluindo fundamentos de programação e primeiros passos no tratamento e na análise de dados com Pandas.
+
+**O que busco praticar:** lógica, automação de tarefas e manipulação de dados.
+
+<p align="center">
+  <a href="https://github.com/Amorimmmx?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver_todos_os_projetos-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os projetos" />
+  </a>
+</p>
+
+---
+
+## 📚 Aprendizado contínuo
+
+- [x] Fundamentos de Power BI — curso realizado no SENAI
+- [x] Fundamentos de IA para Análise de Dados — curso realizado no SENAI
+- [ ] Aprofundar SQL e consultas com JOIN
+- [ ] Evoluir em Excel e suas funções
+- [ ] Praticar Python e Pandas
+- [ ] Desenvolver novos projetos de análise de dados
+- [ ] Aprender Git e GitHub na prática
+
+---
+
+## 📈 Meu GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amorimmmx&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorimmmx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens dos repositórios" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amorimmmx&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amorimmmx&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade do GitHub" />
+</p>
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco oportunidades de estágio e posições de entrada em **Análise de Dados, Business Intelligence e áreas relacionadas à tecnologia**.
+
+Quero continuar aprendendo, desenvolver projetos relevantes e contribuir com soluções que ajudem empresas a compreender melhor seus dados e processos.
+
+---
+
+## 🤝 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amorimmmx/">
+    <img src="https://img.shields.io/badge/LinkedIn-Henrique_Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Amorimmmx">
+    <img src="https://img.shields.io/badge/GitHub-Amorimmmx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
