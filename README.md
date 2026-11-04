@@ -57,7 +57,8 @@ Minha experiência profissional anterior em logística me aproximou de rotinas o
 
 ##  Projetos em destaque
 
-  <a href="https://github.com/Amorimmmx/olist-ecommerce-analytics">
+ [olist-ecommerce-analytics.](https://github.com/Amorimmmx/olist-ecommerce-analytics)
+
 
 ###  Power BI — Dashboards
 
